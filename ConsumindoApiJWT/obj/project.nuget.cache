@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPHYdLUKHzNgqoEAwqrM2YTkxmNsuJAPyPcYOFyLHJRYZDw9oP+cs4MsHqXJ+GB5nWLeZRmTb8Ptk7jvOL2ZXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Taylor\\Desktop\\ConsumindoApiJWT\\ConsumindoApiJWT\\ConsumindoApiJWT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

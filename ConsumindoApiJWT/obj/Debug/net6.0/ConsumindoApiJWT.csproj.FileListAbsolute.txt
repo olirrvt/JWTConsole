@@ -1,0 +1,15 @@
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\bin\Debug\net6.0\ConsumindoApiJWT.exe
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\bin\Debug\net6.0\ConsumindoApiJWT.deps.json
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\bin\Debug\net6.0\ConsumindoApiJWT.runtimeconfig.json
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\bin\Debug\net6.0\ConsumindoApiJWT.dll
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\bin\Debug\net6.0\ConsumindoApiJWT.pdb
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ConsumindoApiJWT.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ConsumindoApiJWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ConsumindoApiJWT.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ConsumindoApiJWT.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ConsumindoApiJWT.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ConsumindoApiJWT.dll
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\refint\ConsumindoApiJWT.dll
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ConsumindoApiJWT.pdb
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ConsumindoApiJWT.genruntimeconfig.cache
+C:\Users\Taylor\Desktop\ConsumindoApiJWT\ConsumindoApiJWT\obj\Debug\net6.0\ref\ConsumindoApiJWT.dll
